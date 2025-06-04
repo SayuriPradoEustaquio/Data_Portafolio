@@ -1,0 +1,64 @@
+# Análisis de Data: Elden Ring
+
+Este proyecto explora datos detallados sobre **Elden Ring** (FromSoftware, 2022), con un enfoque analítico en jefes, armas y estadísticas de daño. El objetivo es identificar patrones ocultos y relaciones significativas entre armas y tipos de daño, así como debilidades de jefes y su distribución geográfica.
+
+# Datasets Utilizados
+
+1. **Ultimate Elden Ring with Shadow of The Erdtree DLC**  
+   - Autor: Pedro Altobelli  
+   - Enlace: [Kaggle](https://www.kaggle.com/datasets/pedroaltobelli/ultimate-elden-ring-with-shadow-of-the-erdtree-dlc)  
+   - Licencia: CC0 (Dominio público)  
+   - Contenido: Stats de jefes, armas, NPCs, ubicaciones y datos del DLC
+
+2. **Elden Ring Ultimate Dataset**  
+   - Autor: Rob Mulla  
+   - Enlace: [Kaggle](https://www.kaggle.com/datasets/robikscube/elden-ring-ultimate-dataset)  
+   - Licencia: CC0 (Dominio público)  
+   - Contenido: Armas, escudos, ubicaciones y más
+
+3. **Fextralife Elden Ring Wiki** *(solo para referencia educativa)*  
+   - Fuente: [Fextralife](https://eldenring.wiki.fextralife.com/)  
+   - Uso: Extracción manual de debilidades y coordenadas de jefes (no se distribuye la data)  
+   - Atribución: Todo el crédito a Fextralife por su documentación exhaustiva
+
+> Este proyecto no sería posible sin el trabajo de recopilación de datos de la comunidad. Por ética, se recomienda siempre citar las fuentes originales.
+
+---
+
+# Herramientas Utilizadas
+
+- **Lenguaje:** Python  
+- **Librerías:**  
+  - `pandas`  
+  - `matplotlib`  
+  - `seaborn`  
+- **Repositorio:** GitHub
+
+---
+
+# Hallazgos Clave
+
+- Relación entre **peso del arma** y **tipo de daño**
+- Correlación entre **poder de ataque** y efectividad
+- Análisis de **debilidades de bosses** según tipo de daño
+- **Regiones con alta concentración** de enemigos/jefes
+- Identificación de **armas más efectivas** según estadísticas y debilidades
+
+---
+
+# Uso de Contenido Oficial
+
+Las imágenes, nombres y frases del juego **Elden Ring** son propiedad de **FromSoftware** y **Bandai Namco**. Este proyecto es realizado con fines únicamente **educativos y no comerciales**.
+
+---
+
+# Contribuciones
+
+¿Tienes ideas o mejoras? ¡Haz un fork del repositorio y envía un pull request!  
+Toda sugerencia es bienvenida.
+
+---
+
+# Licencia
+
+Este repositorio se encuentra bajo la licencia **MIT**, excepto el contenido que pertenece a terceros como FromSoftware o Bandai Namco.
